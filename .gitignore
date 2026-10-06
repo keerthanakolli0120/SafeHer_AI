@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.env
+safeher.db
+.streamlit/secrets.toml
